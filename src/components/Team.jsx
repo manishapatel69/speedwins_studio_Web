@@ -16,7 +16,7 @@ const Team = () => {
                         <div className="team-avatar"><span>MS</span></div>
                     </div>
                     <div className="team-card-info">
-                        <div className="team-role">Unity Game Developer</div>
+                        <div className="team-role">Unity Developer</div>
                         <div className="team-name">Manisha<br /></div>
                         <div className="team-skills">
                             <span className="skill-pill">2D-3D Mechanics</span>
